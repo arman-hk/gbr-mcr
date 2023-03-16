@@ -1,1 +1,1 @@
-Extreme Gradient Boosting on Microservice Call Rate
+Gradient Boosting Regression on Microservice Call Rate
